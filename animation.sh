@@ -6,6 +6,9 @@
 s1=(Ooooo oOooo ooOoo oooOo ooooO)
 s2=('|' '/' '-' '\')
 s3=( '>_' './' )
+s4=( '*' ' ' )
+s5=('SHASHIKANTH' 'MALLEPALLI ')
+s6=( '+' '-' '*' '%' '/' )
 
 copy(){
    ani&
