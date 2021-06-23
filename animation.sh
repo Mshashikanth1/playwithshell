@@ -1,5 +1,9 @@
 #!/bin/bash
-spinner=(Ooooo oOooo ooOoo oooOo ooooO)
+
+#this script will perform an easy animations we obsorve heare and there
+
+
+spinner1=(Ooooo oOooo ooOoo oooOo ooooO)
 spinner2=('|' '/' '-' '\')
 copy(){
    spin&
