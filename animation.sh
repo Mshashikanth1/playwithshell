@@ -3,10 +3,12 @@
 #this script will perform an easy animations we obsorve heare and there
 
 
-spinner1=(Ooooo oOooo ooOoo oooOo ooooO)
-spinner2=('|' '/' '-' '\')
+s1=(Ooooo oOooo ooOoo oooOo ooooO)
+s2=('|' '/' '-' '\')
+s3=( '>_' './' )
+
 copy(){
-   spin&
+   ani&
    pid=$!
    for i in `seq 1 10`
    do
@@ -17,11 +19,11 @@ copy(){
 
 }
 
-spin(){
+ani(){
      while [ 1 ]
      do
 
-	for i in "${spinner[@]}"
+	for i in "${s3[@]}"
 	do 
 		echo -ne "\r$i"
 		sleep 0.2
