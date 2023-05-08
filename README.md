@@ -23,5 +23,7 @@ process:
     ./simple_arithematic
     
     
-    ![image](https://user-images.githubusercontent.com/57630057/236740587-76890a48-213f-4c2f-be7b-fc01c54930ff.png)
 
+
+
+ ![image](https://user-images.githubusercontent.com/57630057/236740587-76890a48-213f-4c2f-be7b-fc01c54930ff.png)
